@@ -1,0 +1,146 @@
+ul {
+    float: right;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: right;
+    
+    }
+
+li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    word-spacing: 10px;
+    font-family: arial,sans-serif;
+    
+    
+    
+}
+
+
+li:hover {
+    text-decoration: underline;
+    text-decoration-color: purple;
+    color: rebeccapurple;
+}
+
+
+.google_img {
+    width: 383px;
+    height: 131px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 25px;
+    padding: 20px;
+}
+
+
+
+.first_row{
+    display: block;
+    text-align: -webkit-center;
+}
+
+
+
+.search {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    display: block;
+    height: 40px;
+    width: 85vh;
+    border-radius: 15px;
+    border-width: thin;
+}
+
+.click {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 5px 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    align-items: flex-start;
+   
+   
+}
+
+
+
+
+#google_images_logo{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 25px;
+    display: block;
+    padding: 20px;
+    
+}
+.Advanced_Search {
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 200%;
+    color: #d93025;
+    margin-left: 50px;
+
+}
+
+.words { 
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+    margin-left: 30px;
+    width: 350px;
+    
+   display: table-cell;
+
+}
+
+.input_advanced {
+    display: inline-block;
+   text-align: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+
+
+.advanced_click {
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+    margin-left: 38%;
+    cursor: default;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    color: #fff;
+    float: inline-end;
+}
+
+#google_advanced_image {
+    width: 200px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
